@@ -1,6 +1,0 @@
-Chore,Assigned,Status
-Wash Dishes,Alice,Pending
-Vacuum Living Room,Bob,Done
-Make Bed,Carol,Pending
-Clean Bathroom,David,In Progress
-Organize Garage,Eva,Pending

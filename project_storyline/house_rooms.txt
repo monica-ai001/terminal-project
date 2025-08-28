@@ -1,6 +1,0 @@
-Room,MessLevel,Items
-Kitchen,High,Dishes,Littered floor
-Living Room,Medium,Clothes,Cups
-Bedroom,Low,Books,Pillows
-Bathroom,High,Towels,Hair
-Garage,Medium,Boxes,Tools
