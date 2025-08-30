@@ -18,7 +18,7 @@ This simulates what professionals call **“messy data”** — duplicates, inco
 
 ## 🎥 Demo
 
-Here’s a short demo GIF recorded from my session (full MP4 is also available in the repo):  
+Here’s a short demo GIF recorded from my session: 
 
 ![Messy House Demo](terminal_demo.gif)
 
