@@ -20,7 +20,7 @@ This simulates what professionals call **“messy data”** — duplicates, inco
 
 Here’s a short demo GIF recorded from my session (full MP4 is also available in the repo):  
 
-![Messy House Demo](Terminal-Shell Project GIF MC 2025.gif)
+![Messy House Demo](terminal_demo.gif)
 
 ---
 
