@@ -21,6 +21,9 @@ This simulates what professionals call **“messy data”** — duplicates, inco
 Here’s a short demo GIF recorded from my session: 
 
 ![Messy House Demo](terminal_demo.gif)
+👉 [Watch the full MP4 on LinkedIn](https://www.linkedin.com/posts/m-c-a8194b37b_practicing-terminalshell-commands-https-activity-7367446470385463296-v6Gy?utm_source=share&utm_medium=member_ios&rcm=ACoAAF3vMEEBxfYm7VHUqyYluhNGNF7e4dVk2-U)
+
+
 
 ---
 
