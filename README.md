@@ -5,7 +5,7 @@ Terminal Commands Project
 
 This project is part of my **AI Product Systems roadmap** and demonstrates the **Pareto 20% of terminal commands** — the small set of commands that deliver 80% of the value in everyday shell work.
 
-Me and JerryGPT built a parody dataset called the **Really Messy House** to practice.  
+I, with the help of JerryGPT, built a parody dataset called the **Really Messy House** to practice.  
 The files and folders include:
 - `rooms.txt` → inconsistent entries for messy rooms  
 - `chores.txt` → duplicated chores, weird statuses, incomplete tasks  
